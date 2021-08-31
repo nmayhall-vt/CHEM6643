@@ -4,7 +4,7 @@ Quantum Chemistry and Spectroscopy: Online materials
 ### Installation
 1. Download
     
-        git clone https://github.com/nmayhall-vt/CHEM6634.git
+	git clone git@github.com:nmayhall-vt/CHEM6643.git
         cd CHEM6634/
 
 2. create virtual environment
@@ -14,5 +14,5 @@ Quantum Chemistry and Spectroscopy: Online materials
 
 3. Install
 
-        pip install .
+	pip install -r requirements.txt
 
