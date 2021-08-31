@@ -10,7 +10,7 @@ Quantum Chemistry and Spectroscopy: Online materials
 2. create virtual environment
          
         virtualenv -p python3 venv
-        source venv/bin/activate
+	source venv/bin/activate
 
 3. Install
 
