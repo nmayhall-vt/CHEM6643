@@ -15,9 +15,4 @@ Quantum Chemistry and Spectroscopy: Online materials
 3. Install
 
         pip install -r requirements.txt
-	
-	julia --project=./  
-	```julia
-	julia> using Pkg; Pkg.build("PyCall")
-	```
 
